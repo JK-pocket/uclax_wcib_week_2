@@ -1,6 +1,16 @@
 body {
-<<<<<<< HEAD
-=======
-  background: url("../images/background2.jpg");
->>>>>>> d4f761a304d1aa7e600750e2f9730659d3c07e48
-  font-family: sans-serif; }
+  background: url("../images/w2p2_background.jpg");
+  color: white;
+  font-family: sans-serif;
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-bottom: 0;
+  padding-left: 30px; }
+  body span {
+    background: black; }
+  body h1 {
+    color: yellow; }
+  body .logo {
+    width: 90%; }
+  body .cover {
+    width: 10%; }

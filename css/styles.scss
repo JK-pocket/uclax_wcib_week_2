@@ -1,12 +1,29 @@
-body {
+	$text-color: rgb( 255, 255, 255 );
 
-<<<<<<< HEAD
-=======
-	background: url('../images/background2.jpg');
->>>>>>> d4f761a304d1aa7e600750e2f9730659d3c07e48
-	font-family: sans-serif;
+	body {
 
-	//img {
-	//	width: 100%;
-//	}
+	background: url('../images/w2p2_background.jpg');
+
+		color: $text-color;
+		font-family: sans-serif;
+		padding-top: 30px;
+  	padding-right: 30px;
+  	padding-bottom: 0;
+  	padding-left: 30px;
+
+		span{
+			background: black;
+		}
+
+		h1{
+			color: yellow;
+		}
+
+		.logo {
+				width: 90%;
+			}
+
+		.cover {
+				width: 10%;
+			}
 }
